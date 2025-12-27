@@ -15,7 +15,7 @@ const navLinks = [
   { href: "experience", label: "Experience", isSection: true },
   { href: "education", label: "Education", isSection: true },
   { href: "skills", label: "Skills", isSection: true },
-  { href: "/blog", label: "Blog", isRoute: true },
+  // { href: "/blog", label: "Blog", isRoute: true },
   { href: "contact", label: "Contact", isSection: true }
 ];
 

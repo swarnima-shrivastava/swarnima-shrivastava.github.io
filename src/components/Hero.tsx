@@ -33,7 +33,7 @@ const Hero = () => {
 
           {/* Title */}
           <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-muted-foreground mb-8 opacity-0 animate-fade-up delay-200">
-            Engineering & Product Strategy Lead
+            Technical Product Manager | Lead Software Engineer 
           </h2>
 
           {/* Description */}
